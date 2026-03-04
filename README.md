@@ -46,7 +46,7 @@ GOOGLE_GENAI_MODEL=gemini-2.0-flash
 
 ### Run with Google ADK Web UI
 
-Structure follows [AhsanAyaz/ai-agents-google-adk](https://github.com/AhsanAyaz/ai-agents-google-adk) (e.g. `1-marketing_campaign_agent`). From the project root:
+From the project root:
 
 ```bash
 PYTHONPATH=. adk web . --port 8000
