@@ -1,4 +1,4 @@
-# Travel Agent (Google ADK)
+<img width="818" height="610" alt="Screenshot 2026-03-03 at 8 29 19 PM" src="https://github.com/user-attachments/assets/be643006-4d88-44ea-8ef5-941456039543" /># Travel Agent (Google ADK)
 
 A travel planning agent built with **Google ADK** (Agent Development Kit). It uses:
 
@@ -91,3 +91,8 @@ backend/                # Optional: main.py for /plan, /plan/prompt API
 - **Places:** Implement `travel_agent/mock_apis/places.py` with Google Places or Yelp.  
 
 The tools in `travel_agent/tools/travel_tools.py` call these modules; keep the same function signatures.
+<img width="706" height="525" alt="Screenshot 2026-03-03 at 8 13 21 PM" src="https://github.com/user-attachments/assets/c5ecacbe-fb76-4f5b-8b2d-9b3c0602ea71" />
+
+<img width="818" height="610" alt="Screenshot 2026-03-03 at 8 29 19 PM" src="https://github.com/user-attachments/assets/16aac6b6-4b9f-474f-af80-0265b857178c" />
+
+
