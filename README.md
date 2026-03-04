@@ -1,4 +1,4 @@
-<img width="818" height="610" alt="Screenshot 2026-03-03 at 8 29 19 PM" src="https://github.com/user-attachments/assets/be643006-4d88-44ea-8ef5-941456039543" /># Travel Agent (Google ADK)
+# Travel Agent (Google ADK)
 
 A travel planning agent built with **Google ADK** (Agent Development Kit). It uses:
 
